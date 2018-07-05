@@ -16,7 +16,7 @@ export default {
   padding: 0;
   border: 0;
   font: inherit;
-	vertical-align: baseline;
+  vertical-align: baseline;
   box-sizing:border-box;
 }
 html {

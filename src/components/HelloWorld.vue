@@ -38,10 +38,16 @@
           <div class='summary'>
             <b>Summary</b>
           </div>
-          <p>If your banker breaks, you snap; if your apothecary by mistake sends you poison in your pills, you die. </p>
-          <p>Therefore, I say, I saw that this situation of mine was the precise situation of every mortal that has this Siamese 
-            connexion with a plurality of other mortals. </p>
-         </div>
+          <div class='summary_p'>
+            If your banker breaks, you snap;
+            if your apothecary by mistake sends you
+            poison in your pills, you die.
+
+            Therefore, I say, I saw that this situation
+            of mine was the precise situation of
+            every mortal that has this Siamese connexion
+            with a plurality of other mortals.
+          </div>
       </div>
     </div>
     <div class='center'>
@@ -141,7 +147,7 @@ nav {
           margin-top: 24px;
           font-weight: bold;
         }
-        p {
+        .summary_p {
           width: 300px;
           font-size: 16px;
           color: #000000;
